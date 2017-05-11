@@ -15,6 +15,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'materialize-sass'
+gem 'repack'
 
 group :development, :test do
   gem 'pry'
